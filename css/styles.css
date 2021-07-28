@@ -51,6 +51,7 @@ body{
 
 .cta-box{
     background-color: hsl(270, 9%, 17%);
+    padding:20px;
 }
 
 .big-heading{
@@ -63,4 +64,20 @@ body{
   margin-top: 40px;
   margin-bottom: 40px;
 }
-
+.head-li{
+    color:hsl(216, 30%, 68%);
+    margin:2% 2% 4% 2%;
+    text-align:left;
+}
+.elm-li{
+    margin:2% 2% 4% 2%;
+    color:hsl(256, 26%, 20%);
+    text-align:left;
+}
+.footer-img{
+    text-align:left;
+    padding-left:34px;
+}
+.footer-icons{
+    padding:5px;
+}
