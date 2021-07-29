@@ -32,7 +32,9 @@ body{
   position: relative;
   z-index: 1;
 }
-
+.features-heading{
+  font-family:"DM Serif Display",serif;
+}
 .features-box{
   padding-right: 3.5%;
   padding-left: 3.5%;
@@ -46,6 +48,7 @@ body{
   color:  hsl(256, 26%, 20%);
 }
 .features-para{
+  color:hsl(216, 30%, 68%);
   font-size: 1.0rem;
 }
 #cta{
