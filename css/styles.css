@@ -11,10 +11,13 @@ a{
 }
 .content{
     margin:0px auto;
-    padding: 0px;
+    padding-top: 50px;
     border-top:0px ridge;
     min-height:400px;
     text-align:left;
+}
+.img-fluid{
+    padding-top:50px;
 }
 h1,h2{
     font-family:"DM Serif Display",serif;
